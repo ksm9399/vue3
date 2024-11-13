@@ -1,11 +1,17 @@
-<script setup>
+  <template>
+    <div>
 
+    </div>
+  </template>
+
+<script>
+export default {
+  setup() {
+
+
+    return {}
+  }
+}
 </script>
 
-<template>
-  <div>
-    Hello Vue3
-  </div>
-</template>
-
-<style scoped></style>
+<style lang="scss" scoped></style>
